@@ -9,6 +9,7 @@ ALUNOS:
 - João Victor Roth Tozzo Alfredo
 - Mariana Trentiny Barbosa
 - Vitor Hugo Behlau Weber  
+
 LINGUAGEM: Python
 
 
